@@ -1,0 +1,15 @@
+{
+  "name": "matrix-mvp",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "npm install ../.."
+  },
+  "author": "",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "cli-color": "^1.0.0",
+    "matrix-js-sdk": "^15.6.0"
+  }
+}
